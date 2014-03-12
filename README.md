@@ -8,6 +8,15 @@ YOU ARE NOT ALLOWED TO DISTRIBUTE THIS PROGRAM TO ANYONE ELSE IN THE WORLD, YOU 
 
 Updates:
 
+Version: 0.5
+Developer: SnowyOwl
+PLatform: Mac
+Date: 3/12/14
+
+Fixed Topic Creater,
+Changed some graphics,
+Fixed Finishing mod.
+
 Version: 0.4
 Developer: SnowyOwl
 Platform: Mac
